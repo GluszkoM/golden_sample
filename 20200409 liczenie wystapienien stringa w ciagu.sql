@@ -1,0 +1,1 @@
+select regexp_count('Other/Unknown Category-SWAP dasdfas Other/Unknown Category-RETURN UNREPAIRED', '(Other/Unknown Category-SWAP)|(Other/Unknown Category-RETURN UNREPAIRED)') as test from dual
